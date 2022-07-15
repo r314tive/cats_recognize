@@ -1,5 +1,5 @@
 import numpy as np
-from lr import *
+from lr_functions import *
 
 
 # Functions          
